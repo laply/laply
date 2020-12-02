@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning every thing for programming
-- 😄 web site is laply.github.io 
+- 😄 web site is https://laply.github.io 
 
 <!--
 **laply/laply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
