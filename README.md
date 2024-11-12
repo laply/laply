@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning every thing for programming
+- I’m currently learning every thing for programming
 - 😄 web site is https://laply.github.io 
 
 <!--
