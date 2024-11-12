@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - I’m currently learning every thing for programming
-- 😄 web site is https://laply.github.io 
+- 😄 web site is https://laply.github.io / https://velog.io/@laply/posts
+
+- 선한의지로 많은 사람에게 도움이 될 수 있는 개발을 꿈꿉니다.
 
 <!--
 **laply/laply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
